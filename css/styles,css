@@ -1,3 +1,8 @@
-* {
-    width: 44px;
+h1 {
+    font-size: 244px;
+    color: rgb(255, 162, 0);
+}
+h3 {
+    font-size: 200px;
+    color: brown;
 }
