@@ -1,7 +1,7 @@
 a {
 color: var(--IRIS, #4D5AE5);
 font-family: Raleway;
-font-size: 18px;
+font-size: 48px;
 font-style: normal;
 font-weight: 700;
 line-height: 21px; /* 116.667% */
