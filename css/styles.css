@@ -155,14 +155,15 @@ letter-spacing: 0.32px;
 }
 
 .section-three {
-    background-color: #F4F4FD;
-   
+    background-color: #F4F4FD;   
 }
 
 .section-three-item {
     text-align: center;
-    text-transform: capitalize;
     color: #2e2f42; 
     line-height: 1.11;  
 }
 
+.my-section-three {
+    background-color: #FFFFFF;
+}
