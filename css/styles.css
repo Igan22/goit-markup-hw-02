@@ -162,5 +162,7 @@ letter-spacing: 0.32px;
 .section-three-item {
     text-align: center;
     text-transform: capitalize;
-    color: #2e2f42;   
+    color: #2e2f42; 
+    line-height: 1.11;  
 }
+
