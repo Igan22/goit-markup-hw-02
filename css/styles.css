@@ -163,18 +163,10 @@ p {
     color: #2e2f42; 
     line-height: 1.11;  
     text-transform: capitalize;
+    font-size: 36px;
+    letter-spacing: 0.02em;
 }
 
 .my-section-three {
     background-color: #FFFFFF;
 }
-
-.section-three-item {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42; 
-    text-transform: capitalize
-}
-
