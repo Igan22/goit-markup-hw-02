@@ -99,7 +99,17 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    cursor: pointer;
 }
+
+.my-button:hover {
+    background-color: #404BBF;
+}
+
+.my-button:focus {
+    background-color: #404BBF;
+}
+
 
 h2 {
     Family: Roboto;
