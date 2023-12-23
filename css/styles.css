@@ -88,6 +88,19 @@ body {
 .my-title {
     font-size: 56px;
     line-height: 1.07;
+    letter-spacing: 0.02em;
+}
+
+.my-button {
+    font-family: "Roboto", sans-serif
+    border-radius: 4px;
+    background: var(--IRIS, #4D5AE5);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
 }
 
 h2 {
