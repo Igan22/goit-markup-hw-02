@@ -153,3 +153,14 @@ letter-spacing: 0.32px;
 .my-item {
     line-height: 1.5;    
 }
+
+.section-three {
+    background-color: #F4F4FD;
+   
+}
+
+.section-three-item {
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;   
+}
