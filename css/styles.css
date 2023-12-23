@@ -76,7 +76,6 @@ body {
 .section-one {
     color: var(--WHITE, #fff);
     text-align: center;
-   /* Header 1 */
     font-family: Roboto;
     font-size: 56px;
     font-style: normal;
@@ -87,7 +86,8 @@ body {
 }
 
 .my-title {
-
+    font-size: 56px;
+    line-height: 1.07;
 }
 
 h2 {
