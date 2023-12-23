@@ -72,7 +72,7 @@ body {
     color: #404bbf;
 }
 
-.section-one {
+.section-one-item {
     color: var(--WHITE, #fff);
     text-align: center;
     font-family: Roboto;
@@ -83,6 +83,7 @@ body {
     letter-spacing: 1.12px;
     background-color: #2e2f42;
 }
+
 
 .my-title {
     font-size: 56px;
