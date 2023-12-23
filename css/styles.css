@@ -73,7 +73,7 @@ body {
     color: #404bbf;
 }
 
-h1 {
+.section-one {
     color: var(--WHITE, #fff);
     text-align: center;
    /* Header 1 */
@@ -81,12 +81,8 @@ h1 {
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
-
+    line-height: 1.07
     letter-spacing: 1.12px;
-}
-.section-one {
-    flex-shrink: 0;
-    background: var(--NAVY-BLUE, #2E2F42);
 }
 
 h2 {
