@@ -83,6 +83,11 @@ body {
     font-weight: 700;
     line-height: 1.07
     letter-spacing: 1.12px;
+    background-color: #2e2f42;
+}
+
+.my-title {
+
 }
 
 h2 {
