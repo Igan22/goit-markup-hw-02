@@ -8,7 +8,7 @@ body {
     background-color: #FFFFFF;
 }
 
-.heater-logo {
+.heater-logo-span {
     color: var(--IRIS, #4D5AE5);
     font-family: Raleway, sans-serif;
     font-size: 18px;
@@ -19,7 +19,7 @@ body {
     text-transform: uppercase;
 }
 
-.heater-logo-span {
+.heater-logo {
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Raleway;
     font-size: 18px;
