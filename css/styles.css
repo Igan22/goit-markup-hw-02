@@ -275,3 +275,12 @@ p {
 .section-four-item {
     line-height: 1.5;   
 }
+
+.my-footer {
+    background-color: #2e2f42;
+}
+
+.footer-item {
+    line-height: 1.5;
+    color: #F4F4FD;    
+}
