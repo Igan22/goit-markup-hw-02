@@ -8,24 +8,24 @@ body {
     background-color: #FFFFFF;
 }
 
-.heater-logo-web {
+.header-logo {
     color: var(--IRIS, #4D5AE5);
-    font-family: Raleway, sans-serif;
+    font-family: Raleway;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.17;
+    line-height: 21px; /* 116.667% */
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
 
 .heater-logo-studio {
     color: #2e2f42;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif,;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px; /* 116.667% */
+    line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
