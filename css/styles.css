@@ -1,0 +1,103 @@
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+.heater-logo {
+    color: var(--IRIS, #4D5AE5);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px; /* 116.667% */
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.my-class {
+    color: var(--NAVY-BLUE, #2E2F42);
+
+/* Body Medium */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
+}
+
+.my-linkmy-link {
+    color: var(--SLATE, #434455);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
+}
+
+h1 {
+    color: var(--WHITE, #fff);
+    text-align: center;
+   /* Header 1 */
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; /* 107.143% */
+    letter-spacing: 1.12px;
+}
+.section-one {
+    width: 1440px;
+    height: 600px;
+    flex-shrink: 0;
+    width: 1440px;
+    height: 600px;
+    flex-shrink: 0;
+    background: var(--NAVY-BLUE, #2E2F42);
+}
+
+h2 {
+    Family: Roboto;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 60px;
+    letter-spacing: 0.02em;   
+}
+ 
+button {
+    border-radius: 4px;
+    background: var(--IRIS, #4D5AE5);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    display: inline-flex;
+    padding: 16px 32px;
+    align-items: flex-start;
+    gap: 10px;
+    text-align: center;
+}
+
+h3 {
+    color: var(--NAVY-BLUE, #2E2F42);
+
+/* Header 3 */
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 120% */
+    letter-spacing: 0.4px;
+}
+
+p {
+    color: var(--SLATE, #434455);
+
+/* Body */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+letter-spacing: 0.32px;
+}
