@@ -170,3 +170,18 @@ p {
 .my-section-three {
     background-color: #FFFFFF;
 }
+
+.section-three-name {
+    line-height: 1.2;       
+}
+
+.my-three-item {
+    font-size: 16px;
+    line-height: 1.5;  
+    color: var(--SLATE, #434455);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.32px; 
+}
