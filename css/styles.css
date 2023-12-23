@@ -92,10 +92,8 @@ body {
 }
 
 .my-button {
-    font-family: "Roboto", sans-serif
-    border-radius: 4px;
+    font-family: "Roboto", sans-serif;
     background: var(--IRIS, #4D5AE5);
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
